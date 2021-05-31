@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello to my GitHub 👋
 
+I am currently attending AGH University of Science and Technology in the degree course Computer Science and Econometrics. I've recently graduated from Upper Secondary School of Communications as a technician in ICT. 
+
+- 🔭 I’m currently working on OOP practicing my C++ and Python in the process
+- 🌱 I’m currently learning MATLAB, SQL and C
+- 📫 How to reach me: eryk.olsza@gmail.com
+- 😄 Pronouns: he/him
 <!--
 **Kyt00n/Kyt00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

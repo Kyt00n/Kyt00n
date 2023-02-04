@@ -1,9 +1,7 @@
 ### Hello to my GitHub 👋
 
-I am currently attending AGH University of Science and Technology in the degree course Computer Science and Econometrics. I've recently graduated from Upper Secondary School of Communications as a technician in ICT. 
+I've started my proffesional carreer at the start of 2022 as a Software Developer. I'm using TypeScript, C#, React and Electron JS every day. I'm also a CS student at WSEI college. In my free time I like to improve my skills as a fullstack developer and also explore other sides of software development like neural networks and computer graphics.
 
-- 🔭 I’m currently working on OOP practicing my C++ and Python in the process
-- 🌱 I’m currently learning MATLAB, SQL and C
 - 📫 How to reach me: eryk.olsza@gmail.com
 - 😄 Pronouns: he/him
 <!--

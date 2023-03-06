@@ -1,4 +1,6 @@
-### Hello to my GitHub 👋
+### Welcome to my GitHub 👋
+
+My name is Eryk Olsza and I'm an Software Developer.
 
 I've started my proffesional carreer at the start of 2022 as a Software Developer. I'm using TypeScript, C#, React and Electron JS every day. I'm also a CS student at WSEI college. In my free time I like to improve my skills as a fullstack developer and also explore other sides of software development like neural networks and computer graphics.
 

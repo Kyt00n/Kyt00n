@@ -20,6 +20,7 @@ I have a strong passion for learning how things work at a deeper level. During w
   * C#
 ### Frameworks and Tools
 * React
+ * Electron
 * .NET
   * Entity Framework
   * AutoMapper

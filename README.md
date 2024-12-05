@@ -9,6 +9,7 @@ I have a strong passion for learning how things work at a deeper level. During w
   * Gained hands-on experience working with React and TypeScript during my internship days.
 * 🌱 Passion Projects:
   * In my free time, I explore the inner workings of computer graphics and low-level programming. My current projects (and one of my favourites so far) is a raytracing engine, written from scratch in C# following Clean Architecture principles, showcasing my interest in graphics programming and the math behind it.
+  * I'm attemting to get familiar with Rust during this years Advent of Code.
 
 ### Technologies I Work With
 #### Programming Languages
@@ -18,6 +19,7 @@ I have a strong passion for learning how things work at a deeper level. During w
   * TypeScript
 * Personal:
   * C#
+  * Rust
 ### Frameworks and Tools
 * React
  * Electron
